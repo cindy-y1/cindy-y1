@@ -1,6 +1,6 @@
 - 👋 hi, i’m cindy!
-- 👀 i’m interested in coding and stem 
-- 🌱 i’m currently learning python, and exploring java & html
+- 👀 i’m interested in cs and enjoy trying new things
+- 🌱 i’m currently learning python and getting into java & html
 - 📫 cindy.yang310@gmail.com
 
 <!---
