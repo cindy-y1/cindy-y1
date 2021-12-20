@@ -1,5 +1,5 @@
 - 👋 hi, i’m cindy!
-- 👀 i’m interested in cs and enjoy trying new things
+- 👀 i’m interested in stem and enjoy trying new things
 - 🌱 i’m currently learning python and getting into java & html
 - 📫 cindy.yang310@gmail.com
 
